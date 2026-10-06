@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.docx_extract/
+docx_media/
+database.db
